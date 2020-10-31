@@ -1,0 +1,26 @@
+{
+  "name": "anuragroy",
+  "version": "1.0.0",
+  "description": "Anurag Roy's business card",
+  "main": "index.js",
+  "bin": {
+    "anuragroy": "./bin/card.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anurag2pirad/businesscard.git"
+  },
+  "author": "Anurag Roy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/anurag2pirad/businesscard/issues"
+  },
+  "homepage": "https://github.com/anurag2pirad/businesscard#readme",
+  "dependencies": {
+    "boxen": "^4.2.0",
+    "chalk": "^4.1.0"
+  }
+}
